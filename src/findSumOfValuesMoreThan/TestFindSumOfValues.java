@@ -11,7 +11,7 @@ public class TestFindSumOfValues{
 	         mySet = new HashSet<Integer>();
 	     }
 	     
-	    // Write your findSumOfValuesMoreThan(Integer) method here
+	     // find the sum of the values greater than a given number; the sum should is printed out 
 	    public void findSumOfValuesMoreThan(Integer x){
 	        
 	        HashSet<Integer> tempSet =  new HashSet<>();
